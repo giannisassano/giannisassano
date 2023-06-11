@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Mario](https://github.com/giannisassano/GradeText#readme)
+  - [GradeText](https://github.com/giannisassano/GradeText)
 
 
 <h2> 🤳 Connect with me:</h2>
